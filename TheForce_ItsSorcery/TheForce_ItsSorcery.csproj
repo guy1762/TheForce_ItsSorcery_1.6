@@ -87,6 +87,7 @@
     <Compile Include="Abilities\CompAbility_ForcePush.cs" />
     <Compile Include="Abilities\CompAbility_ForceRepulse.cs" />
     <Compile Include="Abilities\CompAbility_ForceWave.cs" />
+    <Compile Include="Abilities\CompAbility_StopMentalState.cs" />
     <Compile Include="Abilities\LightsaberCombat\CompAbility_LightsaberBase.cs" />
     <Compile Include="Abilities\CompAbility_MindTrick.cs" />
     <Compile Include="Abilities\LightsaberCombat\CompAbility_Lightsaber_ChoMai.cs" />
