@@ -13,3 +13,10 @@ C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\guy762-KnightsOfTheO
 C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\guy762-KnightsOfTheOuterRim\1.6Source\TheForce_Sorcery-main\TheForce_ItsSorcery\obj\Debug\TheForce_ItsSorcery.csproj.CoreCompileInputs.cache
 C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\guy762-KnightsOfTheOuterRim\1.6Source\TheForce_Sorcery-main\TheForce_ItsSorcery\obj\Debug\TheForce_ItsSorcery.dll
 C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\guy762-KnightsOfTheOuterRim\1.6Source\TheForce_Sorcery-main\TheForce_ItsSorcery\obj\Debug\TheForce_ItsSorcery.pdb
+C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\guy762-KnightsOfTheOuterRim\1.6Source\TheForce_Sorcery-main\TheForce_ItsSorcery_1.6\TheForce_ItsSorcery\obj\Debug\TheForce_ItsSorcery.csproj.AssemblyReference.cache
+C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\guy762-KnightsOfTheOuterRim\1.6Source\TheForce_Sorcery-main\TheForce_ItsSorcery_1.6\TheForce_ItsSorcery\obj\Debug\TheForce_ItsSorcery.csproj.CoreCompileInputs.cache
+C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\guy762-KnightsOfTheOuterRim\1.6Source\TheForce_Sorcery-main\TheForce_ItsSorcery_1.6\TheForce_ItsSorcery\obj\Debug\TheForce_ItsSorcery.dll
+C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\guy762-KnightsOfTheOuterRim\1.6Source\TheForce_Sorcery-main\TheForce_ItsSorcery_1.6\TheForce_ItsSorcery\obj\Debug\TheForce_ItsSorcery.pdb
+C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\guy762-KnightsOfTheOuterRim\1.6Source\1.6Assemblies\TheForce_ItsSorcery.dll
+C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\guy762-KnightsOfTheOuterRim\1.6Source\1.6Assemblies\TheForce_ItsSorcery.pdb
+C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\guy762-KnightsOfTheOuterRim\1.6Source\TheForce_Sorcery-main\TheForce_ItsSorcery_1.6\TheForce_ItsSorcery\obj\Debug\TheForce.1A862901.Up2Date
