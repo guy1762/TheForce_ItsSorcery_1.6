@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\RimWorld\\Mods\\guy762-KnightsOfTheOuterRim\\1.6Source\\TheForce_Sorcery-main\\TheForce_ItsSorcery_1.6\\TheForce_ItsSorcery\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{2110FA43-6CDE-4C55-9E74-9F77791C971B}|TheForce_ItsSorcery.csproj|c:\\program files (x86)\\steam\\steamapps\\common\\rimworld\\mods\\guy762-knightsoftheouterrim\\1.6source\\theforce_sorcery-main\\theforce_itssorcery_1.6\\theforce_itssorcery\\abilities\\compability_forcelightning.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2110FA43-6CDE-4C55-9E74-9F77791C971B}|TheForce_ItsSorcery.csproj|solutionrelative:abilities\\compability_forcelightning.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{2110FA43-6CDE-4C55-9E74-9F77791C971B}|TheForce_ItsSorcery.csproj|c:\\program files (x86)\\steam\\steamapps\\common\\rimworld\\mods\\guy762-knightsoftheouterrim\\1.6source\\theforce_sorcery-main\\theforce_itssorcery_1.6\\theforce_itssorcery\\abilities\\compability_stopmentalstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2110FA43-6CDE-4C55-9E74-9F77791C971B}|TheForce_ItsSorcery.csproj|solutionrelative:abilities\\compability_stopmentalstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -72,9 +76,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{2110FA43-6CDE-4C55-9E74-9F77791C971B}|TheForce_ItsSorcery.csproj|C:\\Program Files (x86)\\Steam\\steamapps\\common\\RimWorld\\Mods\\guy762-KnightsOfTheOuterRim\\1.6Source\\TheForce_Sorcery-main\\TheForce_ItsSorcery_1.6\\TheForce_ItsSorcery\\properties\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2110FA43-6CDE-4C55-9E74-9F77791C971B}|TheForce_ItsSorcery.csproj|solutionrelative:properties\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2110FA43-6CDE-4C55-9E74-9F77791C971B}|TheForce_ItsSorcery.csproj|c:\\program files (x86)\\steam\\steamapps\\common\\rimworld\\mods\\guy762-knightsoftheouterrim\\1.6source\\theforce_sorcery-main\\theforce_itssorcery_1.6\\theforce_itssorcery\\||{B270807C-D8C6-49EB-8EBE-8E8D566637A1}|a54ad834-9219-4aa6-b589-607af21c3e26"
     }
   ],
   "DocumentGroupContainers": [
@@ -84,11 +85,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 8,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 0,
+              "Title": "CompAbility_ForceLightning.cs",
+              "DocumentMoniker": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\RimWorld\\Mods\\guy762-KnightsOfTheOuterRim\\1.6Source\\TheForce_Sorcery-main\\TheForce_ItsSorcery_1.6\\TheForce_ItsSorcery\\Abilities\\CompAbility_ForceLightning.cs",
+              "RelativeDocumentMoniker": "Abilities\\CompAbility_ForceLightning.cs",
+              "ToolTip": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\RimWorld\\Mods\\guy762-KnightsOfTheOuterRim\\1.6Source\\TheForce_Sorcery-main\\TheForce_ItsSorcery_1.6\\TheForce_ItsSorcery\\Abilities\\CompAbility_ForceLightning.cs",
+              "RelativeToolTip": "Abilities\\CompAbility_ForceLightning.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-23T22:16:42.915Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "CompAbility_Lightsaber_SaiTok.cs",
               "DocumentMoniker": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\RimWorld\\Mods\\guy762-KnightsOfTheOuterRim\\1.6Source\\TheForce_Sorcery-main\\TheForce_ItsSorcery_1.6\\TheForce_ItsSorcery\\Abilities\\LightsaberCombat\\CompAbility_Lightsaber_SaiTok.cs",
               "RelativeDocumentMoniker": "Abilities\\LightsaberCombat\\CompAbility_Lightsaber_SaiTok.cs",
@@ -100,7 +114,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "CompAbility_Lightsaber_SaiCha.cs",
               "DocumentMoniker": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\RimWorld\\Mods\\guy762-KnightsOfTheOuterRim\\1.6Source\\TheForce_Sorcery-main\\TheForce_ItsSorcery_1.6\\TheForce_ItsSorcery\\Abilities\\LightsaberCombat\\CompAbility_Lightsaber_SaiCha.cs",
               "RelativeDocumentMoniker": "Abilities\\LightsaberCombat\\CompAbility_Lightsaber_SaiCha.cs",
@@ -112,7 +126,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "CompAbility_Lightsaber_Sai.cs",
               "DocumentMoniker": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\RimWorld\\Mods\\guy762-KnightsOfTheOuterRim\\1.6Source\\TheForce_Sorcery-main\\TheForce_ItsSorcery_1.6\\TheForce_ItsSorcery\\Abilities\\LightsaberCombat\\CompAbility_Lightsaber_Sai.cs",
               "RelativeDocumentMoniker": "Abilities\\LightsaberCombat\\CompAbility_Lightsaber_Sai.cs",
@@ -124,7 +138,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 9,
               "Title": "CompAbility_Lightsaber_MouKei.cs",
               "DocumentMoniker": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\RimWorld\\Mods\\guy762-KnightsOfTheOuterRim\\1.6Source\\TheForce_Sorcery-main\\TheForce_ItsSorcery_1.6\\TheForce_ItsSorcery\\Abilities\\LightsaberCombat\\CompAbility_Lightsaber_MouKei.cs",
               "RelativeDocumentMoniker": "Abilities\\LightsaberCombat\\CompAbility_Lightsaber_MouKei.cs",
@@ -136,7 +150,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 10,
               "Title": "CompAbility_Lightsaber_ChoSun.cs",
               "DocumentMoniker": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\RimWorld\\Mods\\guy762-KnightsOfTheOuterRim\\1.6Source\\TheForce_Sorcery-main\\TheForce_ItsSorcery_1.6\\TheForce_ItsSorcery\\Abilities\\LightsaberCombat\\CompAbility_Lightsaber_ChoSun.cs",
               "RelativeDocumentMoniker": "Abilities\\LightsaberCombat\\CompAbility_Lightsaber_ChoSun.cs",
@@ -148,7 +162,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 11,
               "Title": "CompAbility_Lightsaber_ChoMai.cs",
               "DocumentMoniker": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\RimWorld\\Mods\\guy762-KnightsOfTheOuterRim\\1.6Source\\TheForce_Sorcery-main\\TheForce_ItsSorcery_1.6\\TheForce_ItsSorcery\\Abilities\\LightsaberCombat\\CompAbility_Lightsaber_ChoMai.cs",
               "RelativeDocumentMoniker": "Abilities\\LightsaberCombat\\CompAbility_Lightsaber_ChoMai.cs",
@@ -160,7 +174,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 12,
               "Title": "CompAbility_Lightsaber_ChoMok.cs",
               "DocumentMoniker": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\RimWorld\\Mods\\guy762-KnightsOfTheOuterRim\\1.6Source\\TheForce_Sorcery-main\\TheForce_ItsSorcery_1.6\\TheForce_ItsSorcery\\Abilities\\LightsaberCombat\\CompAbility_Lightsaber_ChoMok.cs",
               "RelativeDocumentMoniker": "Abilities\\LightsaberCombat\\CompAbility_Lightsaber_ChoMok.cs",
@@ -172,7 +186,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "CompAbility_ForceWave.cs",
               "DocumentMoniker": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\RimWorld\\Mods\\guy762-KnightsOfTheOuterRim\\1.6Source\\TheForce_Sorcery-main\\TheForce_ItsSorcery_1.6\\TheForce_ItsSorcery\\Abilities\\CompAbility_ForceWave.cs",
               "RelativeDocumentMoniker": "Abilities\\CompAbility_ForceWave.cs",
@@ -180,12 +194,11 @@
               "RelativeToolTip": "Abilities\\CompAbility_ForceWave.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-23T21:37:40.409Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-07-23T21:37:40.409Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "CompAbility_StopMentalState.cs",
               "DocumentMoniker": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\RimWorld\\Mods\\guy762-KnightsOfTheOuterRim\\1.6Source\\TheForce_Sorcery-main\\TheForce_ItsSorcery_1.6\\TheForce_ItsSorcery\\Abilities\\CompAbility_StopMentalState.cs",
               "RelativeDocumentMoniker": "Abilities\\CompAbility_StopMentalState.cs",
@@ -198,7 +211,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "CompAbility_Lightsaber_SunDjerm.cs",
               "DocumentMoniker": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\RimWorld\\Mods\\guy762-KnightsOfTheOuterRim\\1.6Source\\TheForce_Sorcery-main\\TheForce_ItsSorcery_1.6\\TheForce_ItsSorcery\\Abilities\\LightsaberCombat\\CompAbility_Lightsaber_SunDjerm.cs",
               "RelativeDocumentMoniker": "Abilities\\LightsaberCombat\\CompAbility_Lightsaber_SunDjerm.cs",
@@ -210,7 +223,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "PositionUtils.cs",
               "DocumentMoniker": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\RimWorld\\Mods\\guy762-KnightsOfTheOuterRim\\1.6Source\\TheForce_Sorcery-main\\TheForce_ItsSorcery_1.6\\TheForce_ItsSorcery\\PositionUtils.cs",
               "RelativeDocumentMoniker": "PositionUtils.cs",
@@ -222,19 +235,18 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "TheForce_ItsSorcery",
               "DocumentMoniker": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\RimWorld\\Mods\\guy762-KnightsOfTheOuterRim\\1.6Source\\TheForce_Sorcery-main\\TheForce_ItsSorcery_1.6\\TheForce_ItsSorcery\\TheForce_ItsSorcery.csproj",
               "RelativeDocumentMoniker": "TheForce_ItsSorcery.csproj",
               "ToolTip": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\RimWorld\\Mods\\guy762-KnightsOfTheOuterRim\\1.6Source\\TheForce_Sorcery-main\\TheForce_ItsSorcery_1.6\\TheForce_ItsSorcery\\TheForce_ItsSorcery.csproj",
               "RelativeToolTip": "TheForce_ItsSorcery.csproj",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2026-07-23T21:25:02.228Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-07-23T21:25:02.228Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 13,
               "Title": "CompAbility_ForcePull.cs",
               "DocumentMoniker": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\RimWorld\\Mods\\guy762-KnightsOfTheOuterRim\\1.6Source\\TheForce_Sorcery-main\\TheForce_ItsSorcery_1.6\\TheForce_ItsSorcery\\Abilities\\CompAbility_ForcePull.cs",
               "RelativeDocumentMoniker": "Abilities\\CompAbility_ForcePull.cs",
@@ -246,7 +258,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 14,
               "Title": "CompAbility_LightsaberBase.cs",
               "DocumentMoniker": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\RimWorld\\Mods\\guy762-KnightsOfTheOuterRim\\1.6Source\\TheForce_Sorcery-main\\TheForce_ItsSorcery_1.6\\TheForce_ItsSorcery\\Abilities\\LightsaberCombat\\CompAbility_LightsaberBase.cs",
               "RelativeDocumentMoniker": "Abilities\\LightsaberCombat\\CompAbility_LightsaberBase.cs",
@@ -258,7 +270,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 15,
               "Title": "CompAbility_MindTrick.cs",
               "DocumentMoniker": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\RimWorld\\Mods\\guy762-KnightsOfTheOuterRim\\1.6Source\\TheForce_Sorcery-main\\TheForce_ItsSorcery_1.6\\TheForce_ItsSorcery\\Abilities\\CompAbility_MindTrick.cs",
               "RelativeDocumentMoniker": "Abilities\\CompAbility_MindTrick.cs",
@@ -270,7 +282,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 16,
               "Title": "CompAbility_ForceRepulse.cs",
               "DocumentMoniker": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\RimWorld\\Mods\\guy762-KnightsOfTheOuterRim\\1.6Source\\TheForce_Sorcery-main\\TheForce_ItsSorcery_1.6\\TheForce_ItsSorcery\\Abilities\\CompAbility_ForceRepulse.cs",
               "RelativeDocumentMoniker": "Abilities\\CompAbility_ForceRepulse.cs",
@@ -282,7 +294,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 17,
               "Title": "CompAbility_ForcePush.cs",
               "DocumentMoniker": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\RimWorld\\Mods\\guy762-KnightsOfTheOuterRim\\1.6Source\\TheForce_Sorcery-main\\TheForce_ItsSorcery_1.6\\TheForce_ItsSorcery\\Abilities\\CompAbility_ForcePush.cs",
               "RelativeDocumentMoniker": "Abilities\\CompAbility_ForcePush.cs",
@@ -294,7 +306,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 18,
               "Title": "AssemblyInfo.cs",
               "DocumentMoniker": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\RimWorld\\Mods\\guy762-KnightsOfTheOuterRim\\1.6Source\\TheForce_Sorcery-main\\TheForce_ItsSorcery_1.6\\TheForce_ItsSorcery\\Properties\\AssemblyInfo.cs",
               "RelativeDocumentMoniker": "Properties\\AssemblyInfo.cs",

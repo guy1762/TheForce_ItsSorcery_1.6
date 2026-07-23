@@ -83,6 +83,7 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Abilities\CompAbility_ForceLightning.cs" />
     <Compile Include="Abilities\CompAbility_ForcePull.cs" />
     <Compile Include="Abilities\CompAbility_ForcePush.cs" />
     <Compile Include="Abilities\CompAbility_ForceRepulse.cs" />
